@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ Joshua\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=
+comment1.target=void\ checkKeys()
+comment2.params=
+comment2.target=void\ fall()
+comment3.params=
+comment3.target=void\ punch()
+comment4.params=
+comment4.target=void\ kick()
+comment5.params=
+comment5.target=boolean\ onGround()
+comment6.params=
+comment6.target=boolean\ onWall()
+comment7.params=
+comment7.target=void\ animateRight()
+comment8.params=
+comment8.target=void\ animatePlayer2Wins()
+comment9.params=
+comment9.target=void\ animateLeft()
+numComments=10
