@@ -1,7 +1,10 @@
 READ ME 
+*ONLY use on Greenfoot 2.4.0 (Any newer, or older versions may will not work)
 
+open project.greenfoot to launch game
+
+Controls
 Player 1 Movement
-
 A - Left
 D- Right
 W - Jump
@@ -15,4 +18,4 @@ Right Arrow - Right
 Up Arrow - Jump
 , - Punch
 . - Kick
-/ - shoot	
+/ - shoot
