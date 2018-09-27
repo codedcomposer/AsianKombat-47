@@ -1,12 +1,12 @@
-# READ ME 
-*ONLY use on Greenfoot 2.4.0 (Any newer, or older versions may not work)
+READ ME 
+*ONLY use on Greenfoot 2.4.0 (Any newer, or older versions may will not work)
 
-## Launching
+Launching
 open project.greenfoot to launch game
 see game_screenshot.png for a preview of the game
 
-## Controls
-### Player 1 Movement
+Controls
+Player 1 Movement
 A - Left
 
 D - Right
@@ -19,7 +19,7 @@ E - Kick
 
 F - shoot
 
-### Player 2 Movement 
+Player 2 Movement 
 Left Arrow - Left
 
 Right Arrow - Right
