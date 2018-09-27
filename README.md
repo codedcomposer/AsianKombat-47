@@ -1,22 +1,26 @@
-READ ME 
-*ONLY use on Greenfoot 2.4.0 (Any newer, or older versions may will not work)
+
+**ONLY use on Greenfoot 2.4.0 (Any newer, or older versions may will not work)**
 
 open project.greenfoot to launch game
-see game_screenshot.png for a preview of the game
+![Alt text](game_screenshot.png?raw=true "AsianKombat47")
 
-Controls
+### Controls
 Player 1 Movement
+```
 A - Left
-D- Right
+D - Right
 W - Jump
 Q - Punch
 E - Kick
 F - shoot
+```
 
 Player 2 Movement 
+```
 Left Arrow - Left
 Right Arrow - Right
 Up Arrow - Jump
 , - Punch
 . - Kick
 / - shoot
+```
