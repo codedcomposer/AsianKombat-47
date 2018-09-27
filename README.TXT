@@ -2,7 +2,7 @@ READ ME
 *ONLY use on Greenfoot 2.4.0 (Any newer, or older versions may will not work)
 
 open project.greenfoot to launch game
-see game_screenshot.png for a preview of the game
+![Alt text](game_screenshot.png?raw=true "AsianKombat47")
 
 Controls
 Player 1 Movement
