@@ -20,4 +20,5 @@ Right Arrow - Right
 Up Arrow - Jump
 , - Punch
 . - Kick
+
 / - shoot
