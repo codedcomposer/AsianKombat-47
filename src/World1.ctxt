@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.params=
 comment0.target=World1()
-comment0.text=\n\ Constructor\ for\ objects\ of\ class\ World1.\n\ \n
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ World1.\r\n\ \r\n
 comment1.params=
 comment1.target=Counter1\ getCounter1()
 comment2.params=
@@ -20,5 +20,5 @@ comment8.params=
 comment8.target=void\ player2Died()
 comment9.params=
 comment9.target=void\ prepare()
-comment9.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\n\ objects\ and\ add\ them\ to\ the\ world.\n
+comment9.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
 numComments=10
